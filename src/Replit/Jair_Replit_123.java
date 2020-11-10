@@ -1,4 +1,4 @@
-package Replit_test;
+package Replit;
 
 public class Jair_Replit_123 {
     public static void main(String[] args) {
@@ -11,6 +11,7 @@ public class Jair_Replit_123 {
             totalTreeSize += growth;
             System.out.println("year " + i + " - growth " + growth + " cm");
             System.out.println("tree size: " + totalTreeSize + " cm");
+
         }
     }
 }
